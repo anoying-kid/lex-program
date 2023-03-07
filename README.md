@@ -1,1 +1,3 @@
-# Lex program University
+# Lex program 
+
+1) Count char space word
